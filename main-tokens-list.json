@@ -1,16 +1,13 @@
 {
   "name": "UniversalSwaps Default",
-  "timestamp": "2024-02-25T14:21:18.780Z",
+  "timestamp": "2024-02-06T14:21:18.780Z",
   "version": {
-    "major": 1,
-    "minor": 0,
+    "major": 11,
+    "minor": 13,
     "patch": 0
   },
   "tags": {},
-  "keywords": [
-     		"uniswap",
-     		"default"
-		],
+  "keywords": ["uniswap", "default"],
   "tokens": [
     {
       "chainId": 42,
@@ -51,6 +48,6 @@
       "symbol": "MARJ",
       "decimals": 18,
       "logoURI": "https://api.universalprofile.cloud/ipfs/bafybeidcztvb6rdy62mtptsrj24og4peldc5rbdgo44t5bbm66byziey6q"
-    },  
+    }
   ]
 }
