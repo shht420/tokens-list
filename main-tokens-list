@@ -1,0 +1,52 @@
+{
+  "name": "UniversalSwaps Default",
+  "timestamp": "2024-02-25T14:21:18.780Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 42,
+      "address": "0x5b8b0e44d4719f8a328470dccd3746bfc73d6b14",
+      "name": "Chill",
+      "symbol": "CHILL",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/bafkreigiidxipuk3y5ep5jygsfcs5pdqtfjhkges7hlpimt3mqksznoeyu"
+    },
+    {
+      "chainId": 42,
+      "address": "0x77490716d92749a6efd1cfd04b2f0adb7d94482f",
+      "name": "Pink MoonCheese Token",
+      "symbol": "PMCT",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/QmW1mmXtZow5VHTzZitGZ42CbcYqQr51apgMsesrDKXdGC"
+    },
+    {
+      "chainId": 42,
+      "address": "0x650e14f636295af421D9BB788636356aA7F5924c",
+      "name": "FABS",
+      "symbol": "FABS",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/QmQ6fss1ayRzBR3udodVF4eovbUuVGe7Jqsi6md1EM67Ud"
+    },
+    {
+      "chainId": 42,
+      "address": "0xD0Af359184BC1D7079276Ed302DB5f31731fa054",
+      "name": "GeckoListMePwease",
+      "symbol": "GLMP",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/QmTQe1nEebMfqEJLvZNyyns1auAChETUoApxkrkBZ8saPP"
+    },
+    {
+      "chainId": 42,
+      "address": "0xd681919b63a42a57a9a129a78d1feb81509aeef5",
+      "name": "MARJ",
+      "symbol": "MARJ",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/bafybeidcztvb6rdy62mtptsrj24og4peldc5rbdgo44t5bbm66byziey6q"
+    },  
+  ]
+}
