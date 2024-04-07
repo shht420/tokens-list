@@ -48,6 +48,14 @@
       "symbol": "MARJ",
       "decimals": 18,
       "logoURI": "https://api.universalprofile.cloud/ipfs/bafybeidcztvb6rdy62mtptsrj24og4peldc5rbdgo44t5bbm66byziey6q"
+    },
+    {
+      "chainId": 42,
+      "address": "0x089c1add8d356473c91dfb37ffee5266067e4f00",
+      "name": "Saylor Quote Token",
+      "symbol": "SQT",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/QmWrmZmZF2T9kbeDndNSehSEpe8Kdh7DpPU4J8KHX4UoQD"
     }
   ]
 }
