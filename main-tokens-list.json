@@ -59,7 +59,7 @@
     },
     {
       "chainId": 42,
-      "address": "PEPITO",
+      "address": "0x13fe7655c1bef7864dfc206838a20d00e5ce60a1",
       "name": "PEPITO",
       "symbol": "PEPITO",
       "decimals": 18,
