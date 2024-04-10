@@ -56,6 +56,22 @@
       "symbol": "SQT",
       "decimals": 18,
       "logoURI": "https://api.universalprofile.cloud/ipfs/QmWrmZmZF2T9kbeDndNSehSEpe8Kdh7DpPU4J8KHX4UoQD"
+    },
+    {
+      "chainId": 42,
+      "address": "PEPITO",
+      "name": "PEPITO",
+      "symbol": "PEPITO",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/QmdrcEfQnWZhisc2bF4544xdJGHBQhWLaoGBXZSvrvSTxT"
+    },
+    {
+      "chainId": 42,
+      "address": "0xe0fabf25cefa0c764f0836c15b00b08fe41ae246",
+      "name": "SOON",
+      "symbol": "SOON",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/bafkreial5mjv5pkzghfns7rhyiiccexjyou4p7rhn7r3xqt6vmwftpwwm4"
     }
   ]
 }
