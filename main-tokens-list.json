@@ -73,5 +73,13 @@
       "decimals": 18,
       "logoURI": "https://api.universalprofile.cloud/ipfs/bafkreial5mjv5pkzghfns7rhyiiccexjyou4p7rhn7r3xqt6vmwftpwwm4"
     }
+   {
+      "chainId": 42,
+      "address": "0x3b56718c2acc074b6640b2fa90dbb755f20033ea",
+      "name": "SOON",
+      "symbol": "SOON",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/QmZGTYyo5hCv1SCv5Ve9cuf1cQVQzYpfFqTjaMKDHmjqiF"
+    }
   ]
 }
