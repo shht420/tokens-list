@@ -72,6 +72,12 @@
       "symbol": "SOON",
       "decimals": 18,
       "logoURI": "https://api.universalprofile.cloud/ipfs/bafkreial5mjv5pkzghfns7rhyiiccexjyou4p7rhn7r3xqt6vmwftpwwm4"
-    }
+    },
+     "chainId": 42,
+      "address": "0xa94c2606FBce10492566798a09917D01B147b7c6",
+      "name": "Shehertheythemtoken",
+      "symbol": "Shtt",
+      "decimals": 18,
+      "logoURI": "https://api.universalprofile.cloud/ipfs/Qmb5rprZDbikU2pXbSxAYvuweAjFmyJX1FeUJ5daRVaG99"
   ]
 }
